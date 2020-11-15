@@ -39,7 +39,7 @@ group :assets do
   gem 'zurb-foundation', '~> 4.0.0'
 end
 
-gem 'rake', '10.0.2'
+gem 'rake', '13.0.1'
 gem 'haml'
 
 gem 'sendgrid'
