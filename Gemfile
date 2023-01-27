@@ -45,7 +45,7 @@ gem 'haml'
 gem 'sendgrid'
 gem 'daemons'
 gem 'delayed_job_active_record'
-gem "devise", "~> 2.1.2"
+gem "devise", "~> 3.5.10"
 gem 'aws-sdk'
 gem "paperclip", "~> 3.4.2"
 gem 'nokogiri', '>= 1.5.0'
